@@ -1,0 +1,11 @@
+runs/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.zip
+*.bak*
+*.orig
+*.rej
+*~
+*.log
